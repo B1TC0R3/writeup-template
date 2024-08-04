@@ -55,6 +55,6 @@ There are some additional functions build into the theme:
 | `#bad()`  | Creates a red error icon.       |
 | `#checkbox(check: false/true)` | Create a checkbox icon. |
 
-## Contributing:
+## Contributing
 
 Just open an issue or pull request.
