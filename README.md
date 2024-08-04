@@ -53,7 +53,7 @@ There are some additional functions build into the theme:
 | `#good()` | Creates a green checkmark icon. |
 | `#warn()` | Creates a orange warning icon.  |
 | `#bad()`  | Creates a red error icon.       |
-| `#checkbox(check: false|true)` | Create a checkbox icon. |
+| `#checkbox(check: false/true)` | Create a checkbox icon. |
 
 ## Contributing:
 
