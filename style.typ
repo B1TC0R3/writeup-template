@@ -149,10 +149,11 @@
   )
 
   show table: table => {
-    box(
+    block(
       stroke: 2pt,
       radius: 5pt,
       clip: true,
+      breakable: true,
       table,
     )
   }
