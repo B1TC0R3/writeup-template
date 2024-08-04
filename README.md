@@ -11,7 +11,14 @@ The source code used to create this PDF can be found in [example.typ](./example.
 
 ## Installation
 
-1. Download the `style.typ` file.
+1. Download and extract the `style.typ` file from the [latest release](https://github.com/B1TC0R3/writeup-template/releases/latest).
+
+```bash
+wget https://github.com/B1TC0R3/writeup-template/archive/refs/tags/v.1.0.zip
+unzip v.1.0.zip
+rm v.1.0.zip
+```
+
 2. Create your writeup file.
 3. Import the `style.typ` into your writeup like so:
 
